@@ -20,7 +20,7 @@ Robotics • Coding for Fun • Hack Club
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XinyiC222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XinyiC222&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=XinyiC222&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiC222&layout=compact&theme=tokyonight&hide_border=true)
 
