@@ -9,16 +9,7 @@ Robotics • Coding for Fun • Hack Club
 ---
 
 ## Coding Stats
-
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentCreatedRepos "charmbracelet" 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
 
 ---
 
