@@ -10,8 +10,7 @@ Robotics • Coding for Fun • Hack Club
 
 ## Coding Stats
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
+{{ wakatimeData.HumanReadableTotal }}
 ---
 
 ## GitHub Stats
