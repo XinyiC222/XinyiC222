@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Xinyi!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Robotics+Enthusiast+%F0%9F%A4%96;Hack+Club+Member+%F0%9F%8F%97%EF%B8%8F;Coding+for+Fun+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Robotics+Enthusiast+%F0%9F%A4%96;Hack+Club+Member+%F0%9F%8F%97%EF%B8%8F;Coding+for+Fun+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
