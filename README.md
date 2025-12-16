@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**XinyiC222/XinyiC222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Xinyi
 
-Here are some ideas to get you started:
+Robotics • Coding for Fun • Hack Club
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Coding Stats
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XinyiC222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XinyiC222&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiC222&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=XinyiC222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=XinyiC222&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
